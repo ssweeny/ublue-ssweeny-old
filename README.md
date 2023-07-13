@@ -1,4 +1,4 @@
-# Starting point
+# ublue-ssweeny
 
 [![build-ublue](https://github.com/ssweeny/ublue-ssweeny/actions/workflows/build.yml/badge.svg)](https://github.com/ssweeny/ublue-ssweeny/actions/workflows/build.yml)
 
