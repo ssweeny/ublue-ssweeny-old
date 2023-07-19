@@ -56,7 +56,6 @@ rpm:
     # if you ever download or compile any custom software on your machine.
     - libadwaita
     # Add your own below:
-    - tilix
     - neovim
     - bat
     - alacritty
