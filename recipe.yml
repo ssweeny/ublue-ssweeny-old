@@ -56,6 +56,25 @@ rpm:
     # if you ever download or compile any custom software on your machine.
     - libadwaita
     # Add your own below:
+    # Some additions from bluefin
+    - ddccontrol
+    - ddccontrol-db
+    - ddccontrol-gtk
+    - gnome-shell-extension-appindicator
+    - gnome-shell-extension-dash-to-dock
+    - gnome-shell-extension-blur-my-shell
+    - gnome-shell-extension-gsconnect
+    - input-remapper
+    - libgda
+    - libgda-sqlite
+    - libratbag-ratbagd
+    - nautilus-gsconnect
+    - pulseaudio-utils
+    - tmux
+    - xprop
+    - yaru-theme
+    - zsh
+    # My own additions
     - neovim
     - bat
     - alacritty
