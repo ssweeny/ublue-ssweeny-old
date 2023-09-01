@@ -44,6 +44,7 @@ rpm:
   # - https://copr.fedorainfracloud.org/coprs/atim/starship/repo/fedora-%FEDORA_VERSION%/atim-starship-fedora-%FEDORA_VERSION%.repo
   # Terra repo for fonts and other goodies
     - https://terra.fyralabs.com/terra.repo
+    - https://copr.fedorainfracloud.org/coprs/atim/zerotier-one/repo/fedora-%FEDORA_VERSION%/atim-zerotier-one-fedora-%FEDORA_VERSION%.repo
 
   # These RPMs will be installed from your enabled repositories (Fedora's own
   # repos, extra "repos" you've added, etc). The installation is automatically
@@ -87,6 +88,7 @@ rpm:
     - bat
     - alacritty
     - btop
+    - zerotier-one
   # These RPMs will be removed from the system image. This step happens during
   # image build, BEFORE installing custom RPMs (from the "rpm.install" category).
   remove:
